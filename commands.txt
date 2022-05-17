@@ -1,0 +1,7 @@
+git init
+git status
+git add -A
+git commit -m"message"
+git log
+git chechout
+git checkout master
